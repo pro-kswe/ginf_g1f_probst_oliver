@@ -1,0 +1,54 @@
+[submodule "98_repos_sus/ginf_g1f_arrigoni_carla"]
+	path = 98_repos_sus/ginf_g1f_arrigoni_carla
+	url = git@github.com:carla-arrigoni/ginf_g1f_arrigoni_carla.git
+[submodule "98_repos_sus/ginf_g1f_ehrhardt_sarah"]
+	path = 98_repos_sus/ginf_g1f_ehrhardt_sarah
+	url = git@github.com:sarah-ehrhardt/ginf_g1f_ehrhardt_sarah.git
+[submodule "98_repos_sus/ginf_g1f_fischer_finn"]
+	path = 98_repos_sus/ginf_g1f_fischer_finn
+	url = git@github.com:finn-fischer/ginf_g1f_fischer_finn.git
+[submodule "98_repos_sus/ginf_g1f_fueglistaler_sara"]
+	path = 98_repos_sus/ginf_g1f_fueglistaler_sara
+	url = git@github.com:sara-fueglistaler/ginf_g1f_fueglistaler_sara.git
+[submodule "98_repos_sus/ginf_g1f_good_meira"]
+	path = 98_repos_sus/ginf_g1f_good_meira
+	url = git@github.com:meira-good/ginf_g1f_good_meira.git
+[submodule "98_repos_sus/ginf_g1f_heiniger_sandrine"]
+	path = 98_repos_sus/ginf_g1f_heiniger_sandrine
+	url = git@github.com:sandrineheiniger/ginf_g1f_heiniger_sandrine.git
+[submodule "98_repos_sus/ginf_g1f_hillenbrand_tessa"]
+	path = 98_repos_sus/ginf_g1f_hillenbrand_tessa
+	url = git@github.com:tessa-hillenbrand/ginf_g1f_hillenbrand_tessa.git
+[submodule "98_repos_sus/ginf_G1f_jurcevic_noel"]
+	path = 98_repos_sus/ginf_G1f_jurcevic_noel
+	url = git@github.com:noel-jur/ginf_G1f_jurcevic_noel.git
+[submodule "98_repos_sus/ginf_g1f_koepfli_diego"]
+	path = 98_repos_sus/ginf_g1f_koepfli_diego
+	url = git@github.com:diego-koepfli/ginf_g1f_koepfli_diego.git
+[submodule "98_repos_sus/ginf_g1f_leutwiler_nick"]
+	path = 98_repos_sus/ginf_g1f_leutwiler_nick
+	url = git@github.com:nick-leutwiler/ginf_g1f_leutwiler_nick.git
+[submodule "98_repos_sus/ginf_g1f_meister_ben"]
+	path = 98_repos_sus/ginf_g1f_meister_ben
+	url = git@github.com:Ben-G-Meister/ginf_g1f_meister_ben.git
+[submodule "98_repos_sus/ginf_g1f_pirakash_prashon"]
+	path = 98_repos_sus/ginf_g1f_pirakash_prashon
+	url = git@github.com:Prashon-Pirakash/ginf_g1f_pirakash_prashon.git
+[submodule "98_repos_sus/ginf_g1f_ramalingam_sanjay"]
+	path = 98_repos_sus/ginf_g1f_ramalingam_sanjay
+	url = git@github.com:sanjay-ramalingamm/ginf_g1f_ramalingam_sanjay.git
+[submodule "98_repos_sus/ginf_g1f_sacher_satu"]
+	path = 98_repos_sus/ginf_g1f_sacher_satu
+	url = git@github.com:satu-sacher/ginf_g1f_sacher_satu.git
+[submodule "98_repos_sus/ginf_g1f_schnell_jeremy"]
+	path = 98_repos_sus/ginf_g1f_schnell_jeremy
+	url = git@github.com:jeremy-schnell/ginf_g1f_schnell_jeremy.git
+[submodule "98_repos_sus/ginf_g1f_stuerm_yann"]
+	path = 98_repos_sus/ginf_g1f_stuerm_yann
+	url = git@github.com:yann-stuerm/ginf_g1f_stuerm_yann.git
+[submodule "98_repos_sus/ginf_g1f_suter_alexander"]
+	path = 98_repos_sus/ginf_g1f_suter_alexander
+	url = git@github.com:alexander-suter/ginf_g1f_suter_alexander.git
+[submodule "98_repos_sus/ging_g1f_vonescher_enya"]
+	path = 98_repos_sus/ging_g1f_vonescher_enya
+	url = git@github.com:enya-vonescher/ging_g1f_vonescher_enya.git
