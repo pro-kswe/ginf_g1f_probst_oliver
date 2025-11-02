@@ -49,6 +49,6 @@
 [submodule "98_repos_sus/ginf_g1f_suter_alexander"]
 	path = 98_repos_sus/ginf_g1f_suter_alexander
 	url = git@github.com:alexander-suter/ginf_g1f_suter_alexander.git
-[submodule "98_repos_sus/ging_g1f_vonescher_enya"]
-	path = 98_repos_sus/ging_g1f_vonescher_enya
-	url = git@github.com:enya-vonescher/ging_g1f_vonescher_enya.git
+[submodule "98_repos_sus/ginf_g1f_vonescher_enya"]
+	path = 98_repos_sus/ginf_g1f_vonescher_enya
+	url = git@github.com:enya-vonescher/ginf_g1f_vonescher_enya.git
