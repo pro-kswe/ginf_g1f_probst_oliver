@@ -1,0 +1,10 @@
+a = float(input("a?"))
+b = float(input("b?"))
+u = 2 * (a + b)
+flaecheninhalt = a * b
+print("Berechnungen am Rechteck")
+print("Seitenlängen:")
+print(f"a: {a}")
+print(f"b: {b}")
+print(f"Umfang: {u}")
+print(f"Flächeninhalt: {flaecheninhalt}")
