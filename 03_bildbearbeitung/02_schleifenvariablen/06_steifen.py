@@ -1,5 +1,5 @@
-import PIL.Image as img
 import random as rd
+import PIL.Image as img
 
 bild = img.new("RGB", (20, 3))
 
@@ -11,4 +11,4 @@ for x in range(0, 20):
     bild.putpixel((x, 1), (r, g, b))
     bild.putpixel((x, 2), (r, g, b))
 
-bild.save("06_streifen_ergebnis.png") 
+bild.save("06_streifen_ergebnis.png")
